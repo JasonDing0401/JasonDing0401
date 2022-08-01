@@ -1,6 +1,6 @@
 ### Hello~
 
-I am a 3rd Year undergraduate from [University of California, Berkeley](https://www.berkeley.edu). I am interested in machine learning and computer vision.
+I am a 3rd Year undergraduate from [University of California, Berkeley](https://www.berkeley.edu). I am interested in Deep Learning and Computer Systems.
 
 
 ![JasonDing0401's github stats](https://github-readme-stats.vercel.app/api?username=JasonDing0401&show_icons=true&hide_border=true)
