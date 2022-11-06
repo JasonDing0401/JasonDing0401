@@ -1,6 +1,6 @@
 ### Hello~
 
-I am a senior undergraduate from [University of California, Berkeley](https://www.berkeley.edu). I am interested in Machine Learning and Machine Learning Systems.
+I am a senior undergraduate from [University of California, Berkeley](https://www.berkeley.edu). I am interested in computer systems and security with the intersection of machine learning.
 
 
 ![JasonDing0401's github stats](https://github-readme-stats.vercel.app/api?username=JasonDing0401&show_icons=true&hide_border=true)
